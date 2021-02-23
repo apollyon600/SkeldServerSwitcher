@@ -1,3 +1,5 @@
+# SkeldServerSwitcher
+---
 THIS README.MD IS A STEP BY STEP PROCESS ON HOW TO RUN THIS JAR FILE.
 REMEMBER, THIS REQUIRES JAVA 8 (JAVA 1.8) TO RUN!
 
@@ -5,7 +7,7 @@ OTHER VERSIONS ARE UNTESTED AND UNSUPPORTED!
 YOU CAN OPEN YOUR COMMAND PROMOT AND RUN: java --version OR java -version
 TO VIEW YOUR CURRENT JAVA VERSION
 
-Example:
+### Example:
 C:\Users\Apollo>java -version
 java version "1.8.0_281"
 Java(TM) SE Runtime Environment (build 1.8.0_281-b09)
@@ -15,7 +17,7 @@ OH YEAH, I WORKED HARD ON THIS PROJECT, IF YOU WANT TO SUPPORT ME, YOU CAN JOIN 
 IT'S A CHILL AND RELAX LOUNGE! OPEN FOR ANYTHING APPROPRIATE!
 https://discord.gg/gbXcMta
 
-STEPS TO OPEN THE SERVERSWITCHER!
+## STEPS TO OPEN THE SERVERSWITCHER!
 
 1. Download the latest release: https://github.com/apollyon600/SkeldServerSwitcher/releases/tag/1.1
 2. Unzip the folder 
